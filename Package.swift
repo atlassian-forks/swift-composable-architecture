@@ -21,7 +21,7 @@ let package = Package(
     .package(url: "https://github.com/google/swift-benchmark", from: "0.1.0"),
     .package(url: "https://github.com/atlassian-forks/combine-schedulers", revision: "0.9.1-atlassian.0-branch"),
     .package(url: "https://github.com/pointfreeco/swift-case-paths", from: "0.10.0"),
-    .package(url: "https://github.com/apple/swift-collections", from: "1.0.2"),
+    .package(url: "https://github.com/apple/swift-collections", from: "1.0.4"),
     .package(url: "https://github.com/pointfreeco/swift-custom-dump", from: "0.7.0"),
     .package(url: "https://github.com/atlassian-forks/swift-dependencies", revision: "0.2.0-atlassian.0-branch"),
     .package(url: "https://github.com/pointfreeco/swift-identified-collections", from: "0.7.0"),
